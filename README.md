@@ -9,7 +9,7 @@ In this tutorial, we will be focusing on a regular expression that matches a URL
 /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
 ```
 ### Github Gist URL
-https://gist.github.com/Ruskin20/0f0a3c07217a69774698921d864bf513
+[Click here to direct you](https://gist.github.com/Ruskin20/0f0a3c07217a69774698921d864bf513)
 
 
 - `<script src="https://gist.github.com/Ruskin20/0f0a3c07217a69774698921d864bf513.js"></script>`
